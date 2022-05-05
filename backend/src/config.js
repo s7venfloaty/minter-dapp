@@ -49,8 +49,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'floatywizards';
-const CONTRACT_SYMBOL = 'fltw';
+const CONTRACT_NAME = 'floatywizards2';
+const CONTRACT_SYMBOL = 'fltw2';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
 const TREASURY_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
