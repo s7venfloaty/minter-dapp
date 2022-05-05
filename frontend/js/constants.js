@@ -1,7 +1,7 @@
-const contractAddress = "0x5194161B237BE56026eDC9230a0a0AD859746Bb5"; //Replace with your own contract address
+const contractAddress = "0xf2991e54c090b7c21ac5eac661e4471d5be9e4b7"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Floaty Wizards test NFT Project!!";
+const welcome_h1 = "Welcome to the Floaty Wizards test2 NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Floaty Wizards NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
