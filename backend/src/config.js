@@ -51,7 +51,7 @@ const CHAIN = 'rinkeby'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'floatywizards';
 const CONTRACT_SYMBOL = 'fltw';
-const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
 const TREASURY_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
