@@ -325,8 +325,8 @@ section {
 
 .img_3d {
   position: absolute;
-  top: 270px;
-  left: 110px;
+  top: 240px;
+  left: 90px;
   float: left;
   z-index: 3;
 }

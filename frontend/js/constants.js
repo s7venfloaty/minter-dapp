@@ -1,9 +1,9 @@
 const contractAddress = "0x5194161B237BE56026eDC9230a0a0AD859746Bb5"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Floaty Wizards test2 NFT Project!!";
+const welcome_h1 = "Welcome to the Floaty Wizards NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Floaty Wizards NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Floaty Wizards NFT Project is a collection of 5,000 unique Wizards NFT that will live on the Ethereum layer two solution (Polygon) and the Metaverse. Here is how to add the <a href="https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/#polygon-scan"  target="_blank" rel="noopener noreferrer">Polygon</a> Network to Metamask. Here is how to <a href="https://support.opensea.io/hc/en-us/articles/1500012881642"  target="_blank" rel="noopener noreferrer">transfer ETH from Ethereum to Polygon.</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
