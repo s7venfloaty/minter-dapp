@@ -324,9 +324,7 @@ section {
 }
 
 .img_3d {
-  width:"25%";
   top: 110px;
-  height:auto;
   float: left;
   z-index: -5;
 }
