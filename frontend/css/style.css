@@ -323,6 +323,14 @@ section {
   z-index: -1;
 }
 
+.img_3d {
+  width:"25%";
+  height:auto;
+  float: left;
+  z-index: -5;
+}
+
+
 
 
 .splide__slide {
