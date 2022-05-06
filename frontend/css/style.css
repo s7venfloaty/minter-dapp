@@ -327,7 +327,7 @@ section {
   position: absolute;
   top: 110px;
   float: left;
-  z-index: 0;
+  z-index: 1;
 }
 
 
