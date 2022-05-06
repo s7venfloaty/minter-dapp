@@ -49,8 +49,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'polygon'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'testingfloaty';
-const CONTRACT_SYMBOL = 'ttft';
+const CONTRACT_NAME = 'testingfloaty2';
+const CONTRACT_SYMBOL = 'ttft2';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
 const TREASURY_ADDRESS = '0x7313a1156BD3931124F854a560Dcc11B68b88Cd2';
@@ -65,7 +65,7 @@ const PUBLIC_MINT_START_DATE = "2022-05-03T11:30:48+00:00"; // This is required.
 const PRESALE_MINT_START_DATE = null; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x7313a1156BD3931124F854a560Dcc11B68b88Cd2"; // Address that will receive the royalty
-const BASE_URI = null; // only update if you want to manually set the base uri
+const BASE_URI = "ipfs://QmNtD1Uu23GDb5fUjKqyC7m2wUvFnYT7K1p9SL9C4iVJf9/"; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
