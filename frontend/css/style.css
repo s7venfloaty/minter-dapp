@@ -323,7 +323,12 @@ section {
   z-index: -1;
 }
 
-
+.img {
+  position: absolute;
+  top: 90px;
+  left: 5rem;
+  z-index: -1;
+}
 
 
 .splide__slide {
