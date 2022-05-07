@@ -1,4 +1,4 @@
-const contractAddress = "0x5194161B237BE56026eDC9230a0a0AD859746Bb5"; //Replace with your own contract address
+const contractAddress = "0xa8bf84bDBb3E1feFF91c9124bf6E7ba83DEeb1df"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Floaty Wizards NFT Project!!";
